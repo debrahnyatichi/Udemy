@@ -18,3 +18,30 @@ AI-Powered Automation- self-learning, adaptive - smarter, faster, scalable
 **Natural Language Interface:** run tests via chat or voice commands
 **Intelligent Reporting:**AI summarizes tst outcomes into plain english
 
+**Core AI Technologies**
+NLP(Natural Language Processing: understands human instructions and turns them into tests steps
+ML(Machine learning): Leans locator patterns, identity flaky tests, predicts risks
+Computer Vision: compares screenshots, detects layout issues, identifies missing UI Components
+Large Language Models(LLMs) e.g. GPT,Lama: generates selemnium code, test data or documentation automatically.
+
+**Challenges and Considerations:**
+Still evolving: AI tools are improving rapidly
+Data dependency: AI learns from available data- biased data means biased tests
+Cost: API and compute usage can be expensive at scale
+Privacy: Test data sent to cloud AI must be handled carefully
+Skill Gap: QA engineers need to understand prompts, models and APIs
+
+**Role of AI with Selenium(Script generation, visual validation, maintenance)**
+Why Selenium needs AI:
+1. High effort in script creation
+2. Fragile tests(Locator breaks)
+3. Visual gaps
+4. Lack of natural interaction
+**Role of AI in Selenium**
+AI for script generation: AI can understand plain english test requirements and generate test code automatically
+AI for visual validation: Selenium ensures functionality works but AI ensures it looks right
+AI for test maintenance and self healing: AI enabls self healing locators- automatically ficxing broken test cases when application changes
+**Future of Selenium+AI**
+Selenium remains the browser control backbone
+AI becomes the cognitive layer on top of it
+
