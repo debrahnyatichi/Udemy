@@ -6,7 +6,7 @@ It allows you to access individual cells, style data, create formulas and manage
 Install it: pip install openpyxl
 
 **Opening Existing Excel Workbooks**
-We use `load_workbook`
+We use `load_workbook` to open existing .xlsx
 sample: open.py
 
 **Reading Cell Values, Rows and Columns**
